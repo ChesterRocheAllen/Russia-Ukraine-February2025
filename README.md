@@ -7,7 +7,7 @@ This repository contains a Power BI Desktop file and supporting analysis that mo
 ### Geolocated Data
 I used geolocated data to map and model the areas most affected by the ongoing conflict. This data helps provide insights into regions that have experienced significant change, both in terms of displacement and infrastructural damage. By using geographic visualizations, I could better understand the spatial dynamics of the conflict over time.
 ![Event Map](Image/geo.png)
-Clearly there is an uptick in conflict since the Russian invasion on february 24 2022 with the battle locations clearly showing the frontline movement throughout the conflict.
+Clearly there is an uptick in conflict since the Russian invasion on the 24th of February 2022 with the battle locations clearly showing the frontline movement throughout the conflict.
 ### Population Figures
 Population figures were sourced from Worldometer, a trusted and up-to-date source for population data. These statistics were used to analyze the demographic impact of the conflict.
 ![Worldopop](Image/Worldometer)
@@ -123,10 +123,10 @@ https://www.cepii.fr/DATA_DOWNLOAD/baci/data/BACI_HS92_V202501.zip - Export data
 
 https://www.worldometers.info/demographics/ukraine-demographics/ - Woldometer data 
 
-https://www.city-facts.com/ukraine/population - local ukrainian data 1975-2015
+https://www.city-facts.com/ukraine/population - Local ukrainian data 1975-2015
 
 https://data.unhcr.org/en/situations/ukraine?utm - UN refugee data 
 
-https://liveuamap.com/?ll=48.11679266819489;37.739980468749984&zoom=8 - war mapping 
+https://liveuamap.com/?ll=48.11679266819489;37.739980468749984&zoom=8 - War mapping 
 
-https://github.com/NickTimosh/Ukraine_Map_PowerBI - ukraine map source 
+https://github.com/NickTimosh/Ukraine_Map_PowerBI - Ukraine map source 
