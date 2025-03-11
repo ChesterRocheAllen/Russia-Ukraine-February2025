@@ -27,7 +27,8 @@ Refugee statistics were sourced from UNHCR, the UN Refugee Agency, which provide
 
 ### City-Fact Data and Linear Regression
 To model the population trends of Ukraine, I utilized City-Fact data, which provided key demographic and economic information about cities in Ukraine. Linear regression models were then employed using Python to estimate the population of Ukraine for the years 2020, 2022, and 2025. These estimates were important for predicting population changes due to the conflict and understanding the longer-term effects on Ukraine’s demographic landscape.
-![Populationj EST](PopEST)
+![Population EST](PopEST)
+![Pcontrol](Control)
 
 #### Steps Taken:
 1. **Data Collection**: I gathered city-level population data from City-Fact and aggregated it by region.
@@ -113,9 +114,10 @@ Economically, both countries have faced disruptions in their export industries. 
 
 This analysis provides valuable insights into the long-term consequences of the conflict on Ukraine and Russia, both in terms of demographic shifts and economic resilience.
 
-## Files in This Repository
-
-- `Russia_Ukraine_Conflict_Analysis.pbix` — Power BI Desktop file with visualizations of the data.
-- `Population_Model.py` — Python script implementing linear regression for population estimation.
-- `Export_Model.py` — Python script modeling exports of Ukraine and Russia.
-- `Data/` — Directory containing raw and cleaned data used for analysis.
+## Sources
+https://www.cepii.fr/DATA_DOWNLOAD/baci/data/BACI_HS92_V202501.zip - Export data 
+https://www.worldometers.info/demographics/ukraine-demographics/ - Woldometer data 
+https://www.city-facts.com/ukraine/population - local ukrainian data 1975-2015
+https://data.unhcr.org/en/situations/ukraine?utm - UN refugee data 
+https://liveuamap.com/?ll=48.11679266819489;37.739980468749984&zoom=8 - war mapping 
+https://github.com/NickTimosh/Ukraine_Map_PowerBI - ukraine map source 
