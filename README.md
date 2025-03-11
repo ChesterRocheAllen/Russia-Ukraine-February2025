@@ -116,8 +116,13 @@ This analysis provides valuable insights into the long-term consequences of the 
 
 ## Sources
 https://www.cepii.fr/DATA_DOWNLOAD/baci/data/BACI_HS92_V202501.zip - Export data 
+
 https://www.worldometers.info/demographics/ukraine-demographics/ - Woldometer data 
+
 https://www.city-facts.com/ukraine/population - local ukrainian data 1975-2015
+
 https://data.unhcr.org/en/situations/ukraine?utm - UN refugee data 
+
 https://liveuamap.com/?ll=48.11679266819489;37.739980468749984&zoom=8 - war mapping 
+
 https://github.com/NickTimosh/Ukraine_Map_PowerBI - ukraine map source 
