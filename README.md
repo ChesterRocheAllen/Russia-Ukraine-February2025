@@ -12,7 +12,7 @@ Population figures were sourced from Worldometer, a trusted and up-to-date sourc
 
 ### Refugee Data
 Refugee statistics were sourced from UNHCR, the UN Refugee Agency, which provides reliable and authoritative data on refugees and displaced persons. This data was invaluable in understanding the scope of displacement caused by the conflict, including the number of refugees fleeing Ukraine and seeking asylum in neighboring countries.
-
+![Conflict Map](Refugee)
 ## Methodology
 
 ### City-Fact Data and Linear Regression
