@@ -7,6 +7,7 @@ This repository contains a Power BI Desktop file and supporting analysis that mo
 ### Geolocated Data
 I used geolocated data to map and model the areas most affected by the ongoing conflict. This data helps provide insights into regions that have experienced significant change, both in terms of displacement and infrastructural damage. By using geographic visualizations, I could better understand the spatial dynamics of the conflict over time.
 ![Event Map](geo.png)
+Clearly there is an uptick in conflict since the Russian invasion on february 24 2022 with the battle locations clearly showing the frontline movement throughout the conflict.
 ### Population Figures
 Population figures were sourced from Worldometer, a trusted and up-to-date source for population data. These statistics were used to analyze the demographic impact of the conflict.
 ![Worldopop](Worldometer)
@@ -113,6 +114,9 @@ The ongoing Russia-Ukraine conflict has had profound impacts on both countries' 
 Economically, both countries have faced disruptions in their export industries. Ukraine’s agricultural exports, particularly grain, have been heavily affected by the war, while Russia’s energy exports continue to be impacted by international sanctions. Despite the challenges, both countries have adapted by shifting trade partners, with Russia increasing its trade with China and other non-Western nations.
 
 This analysis provides valuable insights into the long-term consequences of the conflict on Ukraine and Russia, both in terms of demographic shifts and economic resilience.
+
+## Note 
+Please look through the data in PowerBI Desktop to explore it for yourself. 
 
 ## Sources
 https://www.cepii.fr/DATA_DOWNLOAD/baci/data/BACI_HS92_V202501.zip - Export data 
