@@ -42,7 +42,7 @@ Due to a lack of data on the specifics of which of these migrants originate from
 
 For the rest of the refugees it is assumed they have not gone to Russia this total is 5,614,691 that have fled to Western countries. This amount will be taken from the projected Ukrainians living in de facto Ukraine in proportion to the population.
 
-The data produced for the population estimate with losses match the Worldometer data, however, this data can be misleading as it presents Ukrainians that are under Russian control. A better metric is the population under Ukrainian control withy losses factored in dropping the population to 28,182,869 this represents the population to which the Ukrainian government has access. This marks a fall from 45784896 in 2015 (including Crimea) totalling a 61.55% drop in governed population.
+The data produced for the population estimate with losses match the Worldometer data, however, this data can be misleading as it presents Ukrainians that are under Russian control. A better metric is the population under Ukrainian control withy losses factored in dropping the population to 28,182,869 this represents the population to which the Ukrainian government has access. This marks a fall from 45,784,896 in 2015 (including Crimea) totalling a drop to 61.55% of pre conflict governed population.
 
 ### Exports of Ukraine and Russia
 In addition to population models, I also focused on the economic impacts of the conflict, particularly in terms of exports. I used historical export data for both Russia and Ukraine to model changes in trade patterns. The conflict has had a significant impact on the export industries of both countries, particularly in the energy, agricultural, and industrial sectors.
@@ -84,7 +84,7 @@ Using UNHCR refugee data, the analysis highlights the large-scale displacement o
 ### City-Fact Data & Linear Regression for Population Modeling:
 
 To estimate future population trends, the analysis incorporated city-level demographic data and employed linear regression models. These models predict population changes for 2020, 2022, and 2025, showing a decline in population due to both migration and deaths caused by the war.
-The model indicates that, due to migration patterns and the loss of territory, Ukraine's population under its control may have dropped by 61.55%, a significant blow to the country's demographic stability.
+The model indicates that, due to migration patterns and the loss of territory, Ukraine's population under its control may have dropped by 38.45%, a significant blow to the country's demographic stability.
 
 ### Exports of Ukraine (1995-2022):
 
