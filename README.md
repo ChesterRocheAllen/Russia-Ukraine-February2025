@@ -6,10 +6,10 @@ This repository contains a Power BI Desktop file and supporting analysis that mo
 
 ### Geolocated Data
 I used geolocated data to map and model the areas most affected by the ongoing conflict. This data helps provide insights into regions that have experienced significant change, both in terms of displacement and infrastructural damage. By using geographic visualizations, I could better understand the spatial dynamics of the conflict over time.
-
+![Event Map](geo.png)
 ### Population Figures
 Population figures were sourced from Worldometer, a trusted and up-to-date source for population data. These statistics were used to analyze the demographic impact of the conflict.
-
+![Worldopop](Worldometer)
 ### Refugee Data
 Refugee statistics were sourced from UNHCR, the UN Refugee Agency, which provides reliable and authoritative data on refugees and displaced persons. This data was invaluable in understanding the scope of displacement caused by the conflict, including the number of refugees fleeing Ukraine and seeking asylum in neighboring countries.
 ![Conflict Map](Refugee)
@@ -17,6 +17,7 @@ Refugee statistics were sourced from UNHCR, the UN Refugee Agency, which provide
 
 ### City-Fact Data and Linear Regression
 To model the population trends of Ukraine, I utilized City-Fact data, which provided key demographic and economic information about cities in Ukraine. Linear regression models were then employed using Python to estimate the population of Ukraine for the years 2020, 2022, and 2025. These estimates were important for predicting population changes due to the conflict and understanding the longer-term effects on Ukraine’s demographic landscape.
+![Populationj EST](PopEST)
 
 #### Steps Taken:
 1. **Data Collection**: I gathered city-level population data from City-Fact and aggregated it by region.
