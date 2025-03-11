@@ -6,11 +6,11 @@ This repository contains a Power BI Desktop file and supporting analysis that mo
 
 ### Geolocated Data
 I used geolocated data to map and model the areas most affected by the ongoing conflict. This data helps provide insights into regions that have experienced significant change, both in terms of displacement and infrastructural damage. By using geographic visualizations, I could better understand the spatial dynamics of the conflict over time.
-![Event Map](geo.png)
+![Event Map](Image/geo.png)
 Clearly there is an uptick in conflict since the Russian invasion on february 24 2022 with the battle locations clearly showing the frontline movement throughout the conflict.
 ### Population Figures
 Population figures were sourced from Worldometer, a trusted and up-to-date source for population data. These statistics were used to analyze the demographic impact of the conflict.
-![Worldopop](Worldometer)
+![Worldopop](Image/Worldometer)
 ## Analysis of Ukrainian Age Demographics and Urbanization 
 
 The ongoing war in Ukraine, especially since 2014 and the full-scale invasion in 2022, has led to a significant decline in the rural population. Conflict in eastern and southern Ukraine has caused widespread displacement, with many people fleeing rural areas for safety and better opportunities in urban centres. This has accelerated rural depopulation, particularly in war-affected regions.
@@ -23,13 +23,13 @@ This data was sourced from Worldometer has estimates of Ukrainian population fig
 
 ### Refugee Data
 Refugee statistics were sourced from UNHCR, the UN Refugee Agency, which provides reliable and authoritative data on refugees and displaced persons. This data was invaluable in understanding the scope of displacement caused by the conflict, including the number of refugees fleeing Ukraine and seeking asylum in neighboring countries.
-![Conflict Map](Refugee)
+![Conflict Map](Image/Refugee)
 ## Methodology
 
 ### City-Fact Data and Linear Regression
 To model the population trends of Ukraine, I utilized City-Fact data, which provided key demographic and economic information about cities in Ukraine. Linear regression models were then employed using Python to estimate the population of Ukraine for the years 2020, 2022, and 2025. These estimates were important for predicting population changes due to the conflict and understanding the longer-term effects on Ukraine’s demographic landscape.
-![Population EST](PopEST)
-![Pcontrol](Control)
+![Population EST](Image/PopEST)
+![Pcontrol](Image/Control)
 
 #### Steps Taken:
 1. **Data Collection**: I gathered city-level population data from City-Fact and aggregated it by region.
@@ -51,8 +51,8 @@ In addition to population models, I also focused on the economic impacts of the 
 #### Export Modeling:
 1. **Data Gathering**: Export data was collected from international trade databases HS92 from cepii and supplemented with open-source statistics.
 2. **Analysis**: I used time-series analysis to identify trends and deviations in export levels before and after the conflict began.
-![russian exp](Rus)
-![Ukrainian exp](Ukr)
+![russian exp](Image/Rus)
+![Ukrainian exp](Image/Ukr)
 
 ## Exports of Ukraine (1995-2022)
 From 1995 to 2000, Ukraine was in the midst of transitioning from a Soviet-style centrally planned economy to a market-driven one. During this time, the country's exports were primarily focused on steel, chemicals, and agricultural products, including grain. The export market was still largely reliant on Russia and other former Soviet republics. As Ukraine moved into the 2000s, the period between 2000 and 2013 saw steady economic growth, with an increasing share of exports coming from metals, machinery, and agricultural products such as wheat and corn. Ukraine became a significant player in the global grain market, and the EU started to play a more prominent role in Ukraine's trade relations.
