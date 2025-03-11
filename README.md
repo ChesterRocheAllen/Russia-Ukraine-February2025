@@ -31,8 +31,9 @@ In addition to population models, I also focused on the economic impacts of the 
 #### Export Modeling:
 1. **Data Gathering**: Export data was collected from international trade databases and supplemented with open-source statistics.
 2. **Analysis**: I used time-series analysis to identify trends and deviations in export levels before and after the conflict began.
-3. **Predictive Modeling**: Using regression analysis, I modeled the potential future export scenarios for both countries, factoring in sanctions, trade disruptions, and geopolitical dynamics.
-
+![choose](Select)
+![russian exp](Rus)
+![Ukrainian exp](Ukr)
 ## Key Insights
 
 - The population of Ukraine has been significantly impacted by the ongoing conflict, with large-scale displacement both internally and to neighboring countries.
